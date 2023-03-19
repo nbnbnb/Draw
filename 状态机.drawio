@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T14:40:02.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="20.6.0" etag="j5ADbwAdBIBt_2Ya0r7q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T14:45:00.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="20.6.0" etag="AjJA8DLnmp79XySdzBi4" type="github">
   <diagram id="PnpnOwg6NZ7rMhOU_OSm" name="第 1 页">
-    <mxGraphModel dx="2369" dy="1348" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2124" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-120" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;否&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Lucida Console;" vertex="1" connectable="0" parent="ntMtaGVzAQOuyrXGlV1f-118">
           <mxGeometry x="0.2025" y="-1" relative="1" as="geometry">
-            <mxPoint y="-83" as="offset" />
+            <mxPoint y="-51" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-19" value="是否&lt;br&gt;预约成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
@@ -417,7 +417,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-165" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="810" width="35" height="35" as="geometry" />
+          <mxGeometry x="1190" y="810" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-166" value="派车失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1250" y="810" width="60" height="30" as="geometry" />
@@ -445,8 +445,56 @@
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-200" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="130" as="sourcePoint" />
-            <mxPoint x="2246.5" y="130" as="targetPoint" />
+            <mxPoint x="60" as="sourcePoint" />
+            <mxPoint x="2236.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-201" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="168.99999999999955" as="sourcePoint" />
+            <mxPoint x="1020" y="88.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-202" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="168.99999999999955" as="sourcePoint" />
+            <mxPoint x="1600" y="88.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-203" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="128.99999999999955" as="sourcePoint" />
+            <mxPoint x="1600" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-204" value="&amp;nbsp;节 点 之 间&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Lucida Console;spacingLeft=9;spacingRight=9;" vertex="1" connectable="0" parent="ntMtaGVzAQOuyrXGlV1f-203">
+          <mxGeometry x="-0.1202" relative="1" as="geometry">
+            <mxPoint x="63" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ntMtaGVzAQOuyrXGlV1f-205" target="ntMtaGVzAQOuyrXGlV1f-208">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-205" value="发起改派" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="13" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="ntMtaGVzAQOuyrXGlV1f-208" target="ntMtaGVzAQOuyrXGlV1f-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1207" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-208" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="10" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-210" value="改派失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="60" width="82.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ntMtaGVzAQOuyrXGlV1f-214" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="119" as="sourcePoint" />
+            <mxPoint x="1340" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
