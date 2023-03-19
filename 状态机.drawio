@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T14:35:01.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="20.6.0" etag="e7uBQPWhfBoi93gjEHRn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T14:39:03.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="20.6.0" etag="GhJzmPapUFnT0xRy4n3b" type="github">
   <diagram id="PnpnOwg6NZ7rMhOU_OSm" name="第 1 页">
     <mxGraphModel dx="2014" dy="1146" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,29 +431,6 @@
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-176" value="超时未确认" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1340" y="430" width="82.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ntMtaGVzAQOuyrXGlV1f-178" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="169.99999999999955" as="sourcePoint" />
-            <mxPoint x="1020" y="89.99999999999955" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ntMtaGVzAQOuyrXGlV1f-179" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" y="169.99999999999955" as="sourcePoint" />
-            <mxPoint x="1600" y="89.99999999999955" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ntMtaGVzAQOuyrXGlV1f-180" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="129.99999999999955" as="sourcePoint" />
-            <mxPoint x="1600" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ntMtaGVzAQOuyrXGlV1f-181" value="&amp;nbsp;节 点 之 间&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Lucida Console;spacingLeft=9;spacingRight=9;" vertex="1" connectable="0" parent="ntMtaGVzAQOuyrXGlV1f-180">
-          <mxGeometry x="-0.1202" relative="1" as="geometry">
-            <mxPoint x="59" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="ntMtaGVzAQOuyrXGlV1f-183" target="ntMtaGVzAQOuyrXGlV1f-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -465,9 +442,6 @@
         </mxCell>
         <mxCell id="ntMtaGVzAQOuyrXGlV1f-191" value="司机已确认" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1430" y="180" width="82.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ntMtaGVzAQOuyrXGlV1f-197" value="发起改派" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="10" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
